@@ -1,6 +1,6 @@
 # Trading-Simulator-Workshop
 
-This code was created for a workshop for undergraduate uni students, hosted by the student society UNIT UQ on 18/10/2022. This workshop aimed to educate attendees on methods for importing dense financial data into python, working with pandas dataframes objects once imported, and applications for this data included a trading simulator.
+This code was created for a workshop for undergraduate uni students, hosted by the student society UNIT UQ on 18/10/2022. This workshop aimed to educate attendees on methods for importing dense financial data into python, working with pandas dataframes objects once imported, and applications for this data including a trading simulator.
 
 ## DISCLAIMER
 
